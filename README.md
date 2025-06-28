@@ -25,6 +25,7 @@ sevoAtk         ->  攻撃力(超進化)
 sevoDef         ->  体力(超進化)
 sevoEffect      ->  超進化時効果
 crest           ->  クレスト効果
+token           ->  トークン(カードから生成されるカード※デッキには入れれない)
 cv              ->  cv
 illustrator     ->  イラストレーター
 card_image      ->  通常カード
