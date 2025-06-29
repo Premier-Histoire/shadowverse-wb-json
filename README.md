@@ -3,7 +3,7 @@
 [カードリスト](https://shadowverse-wb.com/ja/deck/cardslist)を基に作成しています
 
 公式サイト　カードリストの部分について
-https://shadowverse-wb.com/web/CardList/cardList?offset=0の後ろに
+"https://shadowverse-wb.com/web/CardList/cardList?offset=0" の後ろに
 
 &class={0~7}
 ```
